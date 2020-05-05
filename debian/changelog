@@ -1,5 +1,5 @@
-pycifrw (4.4-1) unstable; urgency=low
+pycifrw (3.3-1) unstable; urgency=low
 
-  * Initial release for 4.4
+  * Initial release for 3.3
 
- -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Tue, 05 May 2020 10:03:57 +0900
+ -- Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>  Tue, 05 May 2020 15:22:00 +0900
